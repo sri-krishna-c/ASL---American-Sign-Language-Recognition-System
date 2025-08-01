@@ -27,20 +27,19 @@ Matplotlib – Visualization of training metrics
 OS / Shutil – File and directory handling
 **
 
-📁 Project Structure**
-
-ASL/
-├── data/                    
-│   ├── train/              
-│   └── test/               
-├── model/                   
+📁ASL/
+├── data/
+│   ├── train/
+│   └── test/
+├── model/
 ├── src/
-│   ├── capture.py           
-│   ├── train.py             
-│   ├── predict.py           
-│   └── utils.py            
+│   ├── capture.py
+│   ├── train.py
+│   ├── predict.py
+│   └── utils.py
 ├── README.md
-└── requirements.txt     
+└── requirements.txt
+
     
 **Installation:**
 Step 1: Clone the Repository
