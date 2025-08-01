@@ -33,6 +33,8 @@ pip install -r requirements.txt
 **Project Structure**
 
 ASL-Recognition/
+
+
 │
 ├── data/               # Dataset containing train/test images
 │   ├── train/          
