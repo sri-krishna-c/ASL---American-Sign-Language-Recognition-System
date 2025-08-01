@@ -44,8 +44,6 @@ ASL/
     
 **Installation:**
 Step 1: Clone the Repository
-git clone https://github.com/prejan/ASL.git
-cd ASL
 
 Step 2: Create a Virtual Environment
 python -m venv venv
