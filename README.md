@@ -1,5 +1,5 @@
-**ASL - American Sign Language Recognition System
-**ASL is an intelligent real-time gesture recognition platform designed to recognize American Sign Language using machine learning and computer vision. This project aims to bridge communication gaps for the hearing and speech impaired by interpreting sign language gestures through webcam input.
+**ASL - American Sign Language Recognition System**
+ASL is an intelligent real-time gesture recognition platform designed to recognize American Sign Language using machine learning and computer vision. This project aims to bridge communication gaps for the hearing and speech impaired by interpreting sign language gestures through webcam input.
 
 **Features:**
 Real-Time Sign Recognition: Detect and classify ASL alphabets via webcam using trained ML models.
@@ -26,10 +26,9 @@ NumPy – Numerical operations
 Matplotlib – Visualization of training metrics
 OS / Shutil – File and directory handling
 **
+
 📁 Project Structure**
-bash
-Copy
-Edit
+
 ASL/
 ├── data/                    
 │   ├── train/              
