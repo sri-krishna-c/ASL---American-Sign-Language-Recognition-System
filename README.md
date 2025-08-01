@@ -27,18 +27,26 @@ Matplotlib – Visualization of training metrics
 OS / Shutil – File and directory handling
 **
 
-📁ASL/
+:
+
+**📁 Project Structure**
+
+ASL/
+
 ├── data/
 │   ├── train/
 │   └── test/
+
 ├── model/
 ├── src/
 │   ├── capture.py
 │   ├── train.py
 │   ├── predict.py
 │   └── utils.py
+
 ├── README.md
 └── requirements.txt
+
 
     
 **Installation:**
@@ -57,8 +65,8 @@ pip install -r requirements.txt
 To train a new model on your dataset:
 python src/train.py
 
-**You can also use src/capture.py to generate new gesture images:
-**python src/capture.py
+You can also use src/capture.py to generate new gesture images:
+python src/capture.py
 
  **Run Real-Time Recognition**
 **Launch the live recognition from your webcam:**
