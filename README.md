@@ -25,28 +25,21 @@ TensorFlow/Keras – CNN model training and recognition
 NumPy – Numerical operations
 Matplotlib – Visualization of training metrics
 OS / Shutil – File and directory handling
+
+**📁 Project Structure
 **
-
-:
-
-**📁 Project Structure**
-
 ASL/
-
 ├── data/
 │   ├── train/
 │   └── test/
-
 ├── model/
 ├── src/
 │   ├── capture.py
 │   ├── train.py
 │   ├── predict.py
 │   └── utils.py
-
 ├── README.md
 └── requirements.txt
-
 
     
 **Installation:**
