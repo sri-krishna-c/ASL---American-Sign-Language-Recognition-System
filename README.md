@@ -26,8 +26,7 @@ NumPy – Numerical operations
 Matplotlib – Visualization of training metrics
 OS / Shutil – File and directory handling
 
-📁**Project Structure
-**
+📁Project Structure
 ASL/
 
 ├── data/
