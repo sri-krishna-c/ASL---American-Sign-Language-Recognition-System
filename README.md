@@ -40,15 +40,15 @@ ASL-Recognition/
 │
 ├── model/              # Trained model weights (saved .h5 file)
 │
-├── src/                # Source code
-│   ├── capture.py      # Script to capture ASL gesture images
-│   ├── train.py        # CNN training script
-│   ├── predict.py      # Real-time gesture recognition
-│   └── utils.py        # Helper functions
+├── src/                
+│   ├── capture.py     
+│   ├── train.py       
+│   ├── predict.py     
+│   └── utils.py       
 │
-├── README.md           # Project overview and usage
-├── requirements.txt    # Python dependencies
-└── .gitignore          # Ignore unnecessary files
+├── README.md           
+├── requirements.txt   
+└── .gitignore          
 
 
 🤝 **Contributions**
